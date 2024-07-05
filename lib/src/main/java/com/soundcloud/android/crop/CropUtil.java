@@ -25,8 +25,10 @@ import android.net.Uri;
 import android.os.Handler;
 import android.os.ParcelFileDescriptor;
 import android.provider.MediaStore;
-import android.support.annotation.Nullable;
+
 import android.text.TextUtils;
+
+import androidx.annotation.Nullable;
 
 import java.io.Closeable;
 import java.io.File;
